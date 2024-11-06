@@ -1,4 +1,8 @@
 hi my name is Pavani 
 hi my new git project
 HI IN CAPITAL 
+<<<<<<< HEAD
 hi good morning guy
+=======
+new branch created
+>>>>>>> 9de8f96354f9d6cb819428711e5b7a8065d26dd4
